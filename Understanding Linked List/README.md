@@ -20,25 +20,26 @@ For example, let's remove the letter B from the linked list and see what the lin
 
 In the same way as the model, considering a linked list of integers that is initially empty, carry out and present the following operations by means of figures:
 
-StartElement();
 
-InsertStart(43);
-
-InsertEnd(89);
-
-InsertMiddle(55,2);
-
-FinalElement();
-
-ShowList();
-
-Remove(55);
-
-Remove(43);
-
-Remove(7);
-
-Remove(89);
+> StartElement();
+>
+> InsertStart(43);
+> 
+> InsertEnd(89);
+>
+> InsertMiddle(55,2);
+>
+> FinalElement();
+> 
+> ShowList();
+>
+> Remove(55);
+>
+> Remove(43);
+>
+> Remove(7);
+>
+> Remove(89);
 
 
 
