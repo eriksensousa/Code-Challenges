@@ -4,6 +4,11 @@
 
 These challenges typically involve solving a specific problem or completing a task using the language’s syntax and features.
 
+
+![code-challenge](https://github.com/eriksensousa/Code-Challenges/assets/126014537/d87f3a53-29d6-4f1f-9342-81a78950df6b)
+
+
+
 Some popular programming languages for code challenges include Python, Java, and JavaScript. Each of these languages has its own strengths and unique features that make them well-suited for different types of challenges.
 
 - **Python** is a high-level, interpreted language that is known for its readability and ease of use. It is commonly used for data analysis, machine learning, and web development. Code challenges in Python often involve manipulating data, working with algorithms, and solving mathematical problems.
