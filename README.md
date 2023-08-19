@@ -1,4 +1,4 @@
-# Code Challenges Project
+# My Own Code Challenges Project
 
 **Code challenges** are a popular way for programmers to practice their skills and improve their proficiency in a particular programming language. These challenges typically involve solving a specific problem or completing a task using the language’s syntax and features.
 
