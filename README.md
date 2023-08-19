@@ -19,3 +19,8 @@ Some popular programming languages for code challenges include Python, Java, and
 - **JavaScript** is a versatile language that is commonly used for web development. It is the primary language for client-side scripting on the web and can also be used for server-side development with technologies like Node.js. Code challenges in JavaScript often involve manipulating the Document Object Model (DOM), working with asynchronous code, and building interactive user interfaces.
 
 Overall, code challenges are a great way to improve your skills in a particular programming language and learn new techniques and approaches to problem-solving. There are many resources available online where you can find code challenges in various languages, including websites li
+
+
+
+
+### Author: Eriksen Sousa
