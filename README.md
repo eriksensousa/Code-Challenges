@@ -1,12 +1,13 @@
 # Code Challenges Project
 
-**Code challenges** are a popular way for programmers to practice their skills and improve their proficiency in a particular programming language.
+**Code challenges** are a popular way for programmers to practice their skills and improve their proficiency in a particular programming language. These challenges typically involve solving a specific problem or completing a task using the language’s syntax and features.
 
-These challenges typically involve solving a specific problem or completing a task using the language’s syntax and features.
 
+<br>
 
 ![code-challenge](https://github.com/eriksensousa/Code-Challenges/assets/126014537/d87f3a53-29d6-4f1f-9342-81a78950df6b)
 
+<br>
 
 
 Some popular programming languages for code challenges include Python, Java, and JavaScript. Each of these languages has its own strengths and unique features that make them well-suited for different types of challenges.
