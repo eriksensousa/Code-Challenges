@@ -19,15 +19,32 @@ For example, let's remove the letter B from the linked list and see what the lin
 
 
 In the same way as the model, considering a linked list of integers that is initially empty, carry out and present the following operations by means of figures:
+
 StartElement();
+
 InsertStart(43);
+
 InsertEnd(89);
+
 InsertMiddle(55,2);
+
 FinalElement();
+
 ShowList();
+
 Remove(55);
+
 Remove(43);
+
 Remove(7);
+
 Remove(89);
 
+
+
+### SOLUTION  
+
+### This code creates a LinkedList class that has methods for inserting elements at the beginning, middle, and end of the list, as well as for removing elements and displaying the list. 
+
+### The challenge is solved by creating an instance of the LinkedList class and calling its methods in the specified order. 
 
